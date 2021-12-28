@@ -1,32 +1,40 @@
-# __
+# _Palindrome Checker_
+
+#### _Ruby week 1 Basic Ruby practice project for Epicodus Bootcamp_
 
 #### Created By _**Christopher Neal & Andrew Henderson**_
-
-#### _An application to_
 
 ## Technologies Used
 
 * _Ruby_
+* _Gems_
+* _Bundler_
 * _RSpec_
 * _IRB_
 * _Pry_
+* _Sinatra_
+* _Capybara_
+* _Postgres_
+* _SQL_
+* _SQL Designer_
 
 ## Description
 
-_This project was created for Epicodus bootcamp to show proficiency in. The application is for . The user can ._
+_This project was created for Epicodus bootcamp to show proficiency in basic Ruby. The user can enter a word and check to see whether it is a palindrome._
+
+## System Requirements
+
+* Ruby v2.6.5 recommended
+* Postgres 12.9  
+_(Note: Ruby gem dependencies will be installed automatically by Bundler.)_
 
 ## Setup/Installation Requirements
 
-* _Clone the GitHub [repository](https://github.com/christophermneal/) or download and open the Zip on your local machine.
-
-## Known Bugs
-
-_None at this time_
-
-## Future Updates
-
-* __
-
+* Clone the GitHub repository: [https://github.com/christophermneal/palindrome](https://github.com/christophermneal/palindrome)
+* From the main project directory, enter `bundle install` in the terminal to populate gems.
+* Enter `rspec` into the terminal to confirm passing of all tests.
+* Enter `ruby app.rb` to run the program with Sinatra.
+* Open browswer and enter the url http://localhost:4567/ unless otherwise prompted in the terminal.
 ## License
 
 _[MIT](https://opensource.org/licenses/MIT)_
